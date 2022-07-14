@@ -1,0 +1,15 @@
+K:\consolegit\bin\Debug\net6.0\consolegit.exe
+K:\consolegit\bin\Debug\net6.0\consolegit.deps.json
+K:\consolegit\bin\Debug\net6.0\consolegit.runtimeconfig.json
+K:\consolegit\bin\Debug\net6.0\consolegit.dll
+K:\consolegit\bin\Debug\net6.0\consolegit.pdb
+K:\consolegit\obj\Debug\net6.0\consolegit.csproj.AssemblyReference.cache
+K:\consolegit\obj\Debug\net6.0\consolegit.GeneratedMSBuildEditorConfig.editorconfig
+K:\consolegit\obj\Debug\net6.0\consolegit.AssemblyInfoInputs.cache
+K:\consolegit\obj\Debug\net6.0\consolegit.AssemblyInfo.cs
+K:\consolegit\obj\Debug\net6.0\consolegit.csproj.CoreCompileInputs.cache
+K:\consolegit\obj\Debug\net6.0\consolegit.dll
+K:\consolegit\obj\Debug\net6.0\refint\consolegit.dll
+K:\consolegit\obj\Debug\net6.0\consolegit.pdb
+K:\consolegit\obj\Debug\net6.0\consolegit.genruntimeconfig.cache
+K:\consolegit\obj\Debug\net6.0\ref\consolegit.dll
